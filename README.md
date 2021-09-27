@@ -1,4 +1,5 @@
 <h2>Architecture</h2>
+
 ![A test image](Architecture.png)
 
 
